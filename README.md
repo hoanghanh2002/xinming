@@ -8,4 +8,5 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
 <div align="center">
-<a href="https://gitlab.com/thelightofhope/haha/-/raw/main/shenyun5.mp4" target="_blank"><img src=""></a>
+<a href="https://gitlab.com/thelightofhope/haha/-/raw/main/shenyun5.mp4" target="_blank"><img src="shenyun1.jpg"></a>
+<p> 顶级艺术。Shen Yun </p>
